@@ -6,7 +6,7 @@
 # print(password.generate())
 
 
-#2. method we write our own code
+#2. method 
 
 import random
 
